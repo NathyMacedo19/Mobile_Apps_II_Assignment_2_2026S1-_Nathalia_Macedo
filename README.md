@@ -1,4 +1,4 @@
-﻿# Simple App 77742 Nathalia
+﻿# Simple App 77742 Nathalia Macedo
 
 An Android app built with **Kotlin** and **Jetpack Compose** for the *Mobile Apps II* module (Assignment 2) at Dorset College Dublin.
 
