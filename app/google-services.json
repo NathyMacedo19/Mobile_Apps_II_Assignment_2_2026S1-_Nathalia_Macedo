@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090370193677",
+    "project_id": "simpleapp77742-nathalia",
+    "storage_bucket": "simpleapp77742-nathalia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090370193677:android:92883bb4dc51126cec0844",
+        "android_client_info": {
+          "package_name": "com.example.simpleapp_77742nathalia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI27pnEd6HgpH_1-iVGn6vL-JP2o6Bimo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
